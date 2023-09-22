@@ -1,0 +1,139 @@
+
+
+
+body{
+    background-color: rgb(45, 40, 40);
+}
+.box{
+    width: 300px;
+    height: 50px;
+    display: flex;
+    font-size: 15px;
+    padding: 20px;    
+    text-align: center;
+    font-family: 'DM Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+nav{
+    width: 10px;
+    height: 30px;
+    margin-top:80px;
+    display: flex;
+    margin-left: -150px;
+    color: white;
+    
+}
+nav h2{
+    margin-left: 10px;
+    margin-top: -8px;
+}
+.search{
+    width: 10px;
+    height: 20px;
+    display: flex;
+    margin-top: 60px;
+    margin-left: -100px;
+}
+.library{
+    width: 10px;
+    height: 20px;
+    display: flex;
+    margin-top: 60px;
+    margin-left: -105px;
+    white-space: nowrap;
+    
+
+}
+.home{
+    width: 10px;
+    height: 20px;
+    display: flex;
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+.query{
+    margin-top: 200px;
+    margin-left: -180px;
+    font-size: 12px ;
+    text-align:justify;
+    line-height: 30px;
+}
+.box2{
+    width: 10px;
+    height: 20px;
+    display: flex;
+    margin-left: 200px;
+}
+.owner{
+
+    margin-left: 1000px;
+    width: 400px;
+    height: 30px;
+    padding: 10px;
+    color: aliceblue;
+}
+.owner img{
+border-radius: 50%;
+width: 10x;
+height: 40px;
+margin-bottom: -10px;
+margin-left: 3px;
+}
+.owner h2{
+    margin-top: -35px;
+    margin-right: -150px;
+    border: 1px solid black;
+    border-radius: 44px;
+    height: 40px;
+    background-color: black;
+    text-align: center;
+}
+.greeting{
+    color: white;
+    font-family:'DM Sans', sans-serif;
+    margin-left: 240px;
+    margin-top: -30px;
+}
+.arrow{
+    width: 15px;
+    height: 25px;
+    display: flex;
+    margin-left: 80px;
+    margin-top: 10px;
+}
+.player img{
+    width: 40%;
+    height: 40%;
+    margin-top: 500px;
+    margin-left: 475px;
+}
+.vol img{
+    width: 20%;
+    height: 20%;
+    margin-left: 1200px;
+    margin-top:-400px;
+}
+.image{
+  
+    color: white;
+    font-family:'DM Sans', sans-serif;
+    margin-top: -550px;
+    margin-left: 250px;
+
+}
+.image img{
+    width: 75px;
+}
+.image h2{
+    margin-left: 85px;
+    margin-top: -50px;
+    font-size: 20px;
+}
+#like{
+    width: 35px;
+    margin-top:-200px;
+    margin-left:20px;
+
+}
